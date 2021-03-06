@@ -5,6 +5,7 @@ Change following lines of code and upload to your NodeMcu V3
 
 // Router Connection
 const char* ssid = "SSIDNAME"; // Change Router Name
+
 const char* password = "PASSWORD"; //  Change Wifi Password
 
 // Optional change static IP if you use different supnet
