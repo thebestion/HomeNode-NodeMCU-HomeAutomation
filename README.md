@@ -9,7 +9,7 @@ const char* ssid = "SSIDNAME"; // Change Router Name
 
 const char* password = "PASSWORD"; //  Change Wifi Password
 
-// Optional change static IP if you use different supnet
+// Optional change static IP if you use different subnet
 
 IPAddress ip(192, 168, 1, 105); // Change IP (optional)
 
