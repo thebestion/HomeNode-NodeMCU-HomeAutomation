@@ -13,3 +13,14 @@ const char* password = "PASSWORD"; //  Change Wifi Password
 
 IPAddress ip(192, 168, 1, 105); // Change IP (optional)
 
+
+
+
+
+NodeMcu Board
+
+https://amzn.to/2Ow0mBi
+
+
+Transmitter Modul
+https://amzn.to/2MYdZJk
