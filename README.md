@@ -18,7 +18,7 @@ IPAddress ip(192, 168, 1, 105); // Change IP (optional)
 
 
 
-https://github.com/thebestion/HomeNode-NodeMCU-HomeAutomation/blob/main/nodemcu-433transmitter.png?raw=true
+<img src="https://github.com/thebestion/HomeNode-NodeMCU-HomeAutomation/blob/main/nodemcu-433transmitter.png?raw=true">
 
 
 
