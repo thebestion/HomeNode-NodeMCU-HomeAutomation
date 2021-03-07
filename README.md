@@ -3,13 +3,15 @@ HomeNode is a Home automation App.
 
 Change following lines of code and upload to your NodeMcu V3
 
-// Router Connection
+
+<b>// Router Connection</b>
 
 const char* ssid = "SSIDNAME"; // Change Router Name
 
 const char* password = "PASSWORD"; //  Change Wifi Password
 
-// Optional change static IP if you use different subnet
+
+<b>// Optional change static IP if you use different subnet</b>
 
 IPAddress ip(192, 168, 1, 105); // Change IP (optional)
 
@@ -17,7 +19,7 @@ IPAddress ip(192, 168, 1, 105); // Change IP (optional)
 
 
 
-
+<b>Hardware</b>
 <img src="https://github.com/thebestion/HomeNode-NodeMCU-HomeAutomation/blob/main/nodemcu-433transmitter.png?raw=true">
 
 
