@@ -7,7 +7,6 @@ Change following lines of code and upload to your NodeMcu V3
 <b>// Router Connection</b>
 
 const char* ssid = "SSIDNAME"; // Change Router Name
-
 const char* password = "PASSWORD"; //  Change Wifi Password
 
 <br>
@@ -19,7 +18,7 @@ IPAddress ip(192, 168, 1, 105); // Change IP (optional)
 <br><br>
 
 
-<b>Hardware</b>
+<b>Hardware</b><br>
 <img src="https://github.com/thebestion/HomeNode-NodeMCU-HomeAutomation/blob/main/nodemcu-433transmitter.png?raw=true">
 
 
