@@ -17,10 +17,20 @@ IPAddress ip(192, 168, 1, 105); // Change IP (optional)
 
 
 
+
+https://github.com/thebestion/HomeNode-NodeMCU-HomeAutomation/blob/main/nodemcu-433transmitter.png?raw=true
+
+
+
+
+
+
+
 NodeMcu Board
 
 https://amzn.to/2Ow0mBi
 
 
 Transmitter Modul
+
 https://amzn.to/2MYdZJk
